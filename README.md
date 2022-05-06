@@ -35,12 +35,3 @@ I've been learning to code for 7 years in the university, I'm passionate about l
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/JEstebanCDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jestebancastano/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/JEstebanCDev"><img src="https://github-readme-stats.vercel.app/api?username=JEstebanCDev&show_icons=true&hide=issues,contribs&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="JEstebanCDev's GitHub stats" /></a>
-
-<a href="https://github.com/JEstebanCDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEstebanCDev&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-

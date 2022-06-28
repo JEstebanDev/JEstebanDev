@@ -9,7 +9,7 @@ I've been learning to code for 7 years in the university, I'm passionate about l
 * 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [JEstebanCDev](http://#)
 * ✉️  You can contact me at [castanoesteban9@gmail.com](mailto:castanoesteban9@gmail.com)
-* 🚀  I'm currently working on [FastFoodApp](http://fastfoodappbackend.azurewebsites.net/api/v1)
+* 🚀  I'm currently working on [FastFoodApp](https://github.com/JEstebanCDev/FastFoodApp_Frontend)
 * 🧠  I'm learning Angular and the next project I'm interested in learning Flutter
 
 ### Skills

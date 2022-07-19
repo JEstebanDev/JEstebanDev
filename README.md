@@ -7,9 +7,9 @@ Full-Stack Web Developer
 I've been learning to code for 7 years in the university, I'm passionate about learning more about the information technology industry every day.
 
 * 🌍  I'm based in Colombia
-* 🖥️  See my portfolio at [JEstebanCDev](http://#)
+* 🖥️  See my portfolio at [JEstebanDev](http://#)
 * ✉️  You can contact me at [castanoesteban9@gmail.com](mailto:castanoesteban9@gmail.com)
-* 🚀  I'm currently working on [FastFoodApp](https://github.com/JEstebanCDev/FastFoodApp_Frontend)
+* 🚀  I'm currently working on [FastFoodApp](https://github.com/JEstebanDev/FastFoodApp_Frontend)
 * 🧠  I'm learning Angular and the next project I'm interested in learning Flutter
 
 ### Skills
@@ -34,4 +34,4 @@ I've been learning to code for 7 years in the university, I'm passionate about l
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/JEstebanCDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jestebancastano/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/JEstebanDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jestebancastano/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>

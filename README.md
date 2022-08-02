@@ -4,7 +4,7 @@ Hi 👋 My name is Juan Esteban
 Full-Stack Web Developer
 ------------------------
 
-I've been learning to code for 7 years in the university, I'm passionate about learning more about the information technology industry every day.
+I'm passionate about learning more about the information technology industry every day.
 
 * 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [JEstebanDev](https://jestebandev.netlify.app/)

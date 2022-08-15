@@ -10,7 +10,7 @@ I'm passionate about learning more about the information technology industry eve
 * 🖥️  See my portfolio at [JEstebanDev](https://jestebandev.netlify.app/)
 * ✉️  You can contact me at [castanoesteban9@gmail.com](mailto:castanoesteban9@gmail.com)
 * 🚀  I'm currently working on [FastFoodApp](https://github.com/JEstebanDev/FastFoodApp_Frontend)
-* 🧠  I'm learning Angular and the next project I'm interested in learning Flutter
+* 🧠  I'm learning C# and the next project I'm interested in learning React
 
 ### Skills
 

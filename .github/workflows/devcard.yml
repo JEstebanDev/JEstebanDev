@@ -14,6 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: devcard
+        run: |
+        echo "${{secrets.CARD}}"
         uses: dailydotdev/action-devcard@2.0.6
         with:
           devcard_id: $secrets.CARD

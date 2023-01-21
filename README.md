@@ -2,7 +2,7 @@ Hi 👋 I'm Juan Esteban
 =============================
  <div align="left">
  <a href="https://app.daily.dev/JEstebanDev" target="_blank">
-  <img src="https://github.com/JEstebanDev/JEstebanDev/blob/main/workflows/devcard.svg" width="300" align="right" alt="Esteban's Dev Card"/></a>
+  <img src="https://github.com/JEstebanDev/JEstebanDev/blob/main/devcard.svg" width="300" align="right" alt="Esteban's Dev Card"/></a>
 </div>
 
 Full-Stack Web Developer

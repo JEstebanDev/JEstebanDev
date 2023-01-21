@@ -1,5 +1,9 @@
-Hi 👋 My name is Juan Esteban
+Hi 👋 I'm Juan Esteban
 =============================
+ <div align="left">
+ <a href="https://app.daily.dev/JEstebanDev" target="_blank">
+  <img src="https://api.daily.dev/devcards/0d82e175350847319ba20610b947d65b.png?r=46r" width="300" align="right" alt="Esteban's Dev Card"/></a>
+</div>
 
 Full-Stack Web Developer
 ------------------------

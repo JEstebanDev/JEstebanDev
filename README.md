@@ -1,6 +1,10 @@
 Hi 👋 I'm Juan Esteban
 =============================
- <div align="left">
+ <div align="left" style="@media only screen and (max-width: 600px) {
+  .hide-on-mobile {
+    display: none;
+  }
+}">
  <a href="https://app.daily.dev/JEstebanDev" target="_blank">
   <img src="https://github.com/JEstebanDev/JEstebanDev/blob/main/devcard.svg" width="300" align="right" alt="Esteban's Dev Card"/></a>
 </div>

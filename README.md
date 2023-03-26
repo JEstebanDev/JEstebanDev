@@ -22,7 +22,7 @@ I'm passionate about learning more about the information technology industry eve
 
  
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
- <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/12x/spring-logo.png" width="36" height="36" alt="SpringBoot" /></a>
+ <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/spring-logo.png" width="36" height="36" alt="SpringBoot" /></a>
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
@@ -52,5 +52,5 @@ I'm passionate about learning more about the information technology industry eve
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/jestebancastano/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://jestebandev.tech/" target="_blank" rel="noreferrer"><img src="https://jestebandev.netlify.app/assets/logo.png" width="32" height="32" /></a>
+<a href="https://jestebandev.tech/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/di4wu7js0/image/upload/v1679851060/portfolio/logo_gtvnoa.png" width="32" height="32" /></a>
 </p>

@@ -11,7 +11,7 @@ Full-Stack Web Developer
 I'm passionate about learning more about the information technology industry every day.
 
 * 🌍  I'm based in Colombia <img src="https://emojigraph.org/media/joypixels/flag-colombia_1f1e8-1f1f4.png" width="16" height="16" />
-* 🖥️  See my portfolio at [JEstebanDev](https://jestebandev.netlify.app/)
+* 🖥️  See my portfolio at [JEstebanDev](https://jestebandev.tech/)
 * ✉️  You can contact me at [castanoesteban9@gmail.com](mailto:castanoesteban9@gmail.com)
 * 🚀  I'm currently working on my [SideProject](#)
 * 🧠  I'm learning **Next.js**, **GraphQL** and **MongoDB** and the next project I'm interested in learning technologies **Web3**

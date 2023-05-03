@@ -12,7 +12,7 @@ I'm passionate about learning more about the information technology industry eve
 
 * 🌍  I'm based in Colombia <img src="https://emojigraph.org/media/joypixels/flag-colombia_1f1e8-1f1f4.png" width="16" height="16" />
 * 🖥️  See my portfolio at [JEstebanDev](https://jestebandev.tech/)
-* ✉️  You can contact me at [jestebancdev@gmail.com](mailto:jestebancdev@gmail.com)
+* ✉️  You can contact me at [JEstebancDev@gmail.com](mailto:jestebancdev@gmail.com)
 * 🚀  I'm currently working on my [SideProject](#)
 * 🧠  I'm learning **Next.js**
 

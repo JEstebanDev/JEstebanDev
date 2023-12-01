@@ -12,7 +12,7 @@ I'm passionate about learning more about the information technology industry eve
 
 * 🌍  I'm based in Colombia <img src="https://emojigraph.org/media/joypixels/flag-colombia_1f1e8-1f1f4.png" width="16" height="16" />
 * 🖥️  See my portfolio at [JEstebanDev](https://jestebandev.tech/)
-* ✉️  You can contact me at [JEstebancDev@gmail.com](mailto:jestebancdev@gmail.com)
+* ✉️  You can contact me at [castanoesteban9@gmail.com](mailto:castanoesteban9@gmail.com)
 * 🚀  I'm currently working on my [SideProject](#)
 * 🧠  I'm learning **Next.js**
 
@@ -52,6 +52,7 @@ I'm passionate about learning more about the information technology industry eve
 ### Socials
 
 <p align="left"> 
+ <a href="https://twitter.com/jestebandev" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="32" height="32" /></a>
 <a href="https://www.behance.net/jestebandev" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/jestebancastano/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" width="32" height="32" /></a>
 <a href="https://jestebandev.tech/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/di4wu7js0/image/upload/v1679851060/portfolio/logo_gtvnoa.png" width="32" height="32" /></a>

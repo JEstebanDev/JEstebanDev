@@ -14,7 +14,7 @@ I'm passionate about learning more about the information technology industry eve
 * 🖥️  See my portfolio at [JEstebanDev](https://jestebandev.tech/)
 * ✉️  You can contact me at [castanoesteban9@gmail.com](mailto:castanoesteban9@gmail.com)
 * 🚀  I'm currently working on my [SideProject](#)
-* 🧠  I'm learning **Next.js**
+* 🧠  I'm learning **Flutter**
 
 ### Skills
 

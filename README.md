@@ -1,7 +1,7 @@
 Hi 👋 I'm Juan Esteban
 =============================
 <div align="left" class="hide-on-mobile">
-  <a href="https://app.daily.dev/jestebandev"><img src="https://api.daily.dev/devcards/v2/ZRajdpWBSiGdkSXgaYnGK.png?r=k34" width="356" alt="Esteban's Dev Card"/></a>
+  <a href="https://app.daily.dev/jestebandev"><img src="https://api.daily.dev/devcards/v2/ZRajdpWBSiGdkSXgaYnGK.png?type=default&r=qia" width="350" align="right" alt="Esteban's Dev Card"/></a>
 </div>
 
 Full-Stack Web Developer

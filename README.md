@@ -1,6 +1,15 @@
 Hi 👋 I'm Juan Esteban
 =============================
-<div align="left" class="hide-on-mobile">
+<style>
+/* Media query to hide the div on screens smaller than 768px (typical mobile devices) */
+@media (max-width: 768px) {
+    .divToHide {
+        display: none;
+    }
+}
+</style>
+
+<div align="left" class="divToHide">
   <a href="https://app.daily.dev/jestebandev"><img src="https://api.daily.dev/devcards/v2/ZRajdpWBSiGdkSXgaYnGK.png?type=default&r=qia" width="350" align="right" alt="Esteban's Dev Card"/></a>
 </div>
 

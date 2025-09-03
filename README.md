@@ -53,6 +53,6 @@ I'm passionate about learning more about the information technology industry eve
 <p align="left"> 
  <a href="https://twitter.com/jestebandev" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="32" height="32" /></a>
 <a href="https://www.behance.net/jestebandev" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/jestebancastano/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/jestebancastano/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width="32" height="32" /></a>
 <a href="https://jestebandev.tech/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/di4wu7js0/image/upload/v1679851060/portfolio/logo_gtvnoa.png" width="32" height="32" /></a>
 </p>

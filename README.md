@@ -1,42 +1,24 @@
-Hi 👋 I'm Juan Esteban
+# 👋 Hi, I'm Juan Esteban
 
-Full-Stack Web Developer
-------------------------
+### 💻 Full-Stack Web Developer
 
-I'm passionate about learning more about the information technology industry every day.
+I'm a passionate developer focused on building modern web applications and continuously growing in the tech industry 🚀
 
-* 🌍  I'm based in Colombia <img src="https://emojigraph.org/media/joypixels/flag-colombia_1f1e8-1f1f4.png" width="16" height="16" />
-* 🖥️  See my portfolio at [JEstebanDev](https://jestebandev.tech/)
-* ✉️  You can contact me at [castanoesteban9@gmail.com](mailto:hello@zaplysaas.com)
-* 🚀  I'm currently working on my [SideProject](#)
+---
 
-### Skills
+## 🌎 About Me
 
-<p align="left">
+- 📍 Based in Colombia 🇨🇴  
+- 🧠 Always learning and improving my skills in software development  
+- 🚀 Currently working on my [Wrkingon](https://wrkingon.com/)  
+- 🖥️ Check out my portfolio: [jestebandev.tech](https://jestebandev.netlify.app/)  
 
- 
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
- <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/spring-logo.png" width="36" height="36" alt="SpringBoot" /></a>
- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
- <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="36" height="36" alt="Docker" /></a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+---
 
+## 🛠️ Tech Stack
 
-### Socials
-
-<p align="left"> 
- <a href="https://twitter.com/jestebandev" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="32" height="32" /></a>
-<a href="https://www.behance.net/jestebandev" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/jestebancastano/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width="32" height="32" /></a>
-<a href="https://jestebandev.tech/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/di4wu7js0/image/upload/v1679851060/portfolio/logo_gtvnoa.png" width="32" height="32" /></a>
-</p>
+```txt
+Frontend:  React | Next.js | HTML | CSS | Tailwind  
+Backend:   Node.js | Express  
+Database:  MongoDB | PostgreSQL  
+Tools:     Git | Docker | Figma
